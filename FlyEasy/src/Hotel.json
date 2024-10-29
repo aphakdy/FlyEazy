@@ -1,0 +1,13 @@
+[
+    {
+       "HotelName":"Hampton Inn",
+       "Location":"Charlotte, NC",
+       "Ammenities":"Pool, Gym, Room Service",
+       "RoomType":"One Bedroom Suite, Single King, Balcony"  
+    },{
+        "HotelName":"Hilton",
+       "Location":"Columbia, SC",
+       "Ammenities":"Gym, Room Service, Laundry Room",
+       "RoomType":"Two Bedroom Suite, Two Double, View"
+    }
+]
